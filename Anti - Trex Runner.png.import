@@ -2,7 +2,15 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< Updated upstream
 uid="uid://dqb4karsgf4ih"
+=======
+<<<<<<< HEAD
+uid="uid://bmmk7txtcer7"
+=======
+uid="uid://dqb4karsgf4ih"
+>>>>>>> 76e6e616eeab1a06a665ea059127c37c14929810
+>>>>>>> Stashed changes
 path="res://.godot/imported/Anti - Trex Runner.png-de929a23316b53627acd5eab1a33177a.ctex"
 metadata={
 "vram_texture": false
