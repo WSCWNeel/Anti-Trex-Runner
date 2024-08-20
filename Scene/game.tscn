@@ -43144,7 +43144,7 @@ distance = -62.0
 [node name="Game" type="Node2D"]
 
 [node name="TileMap" type="TileMap" parent="."]
-position = Vector2(1, 0)
+position = Vector2(2, 0)
 tile_set = SubResource("TileSet_r6fca")
 format = 2
 layer_0/name = "background"
