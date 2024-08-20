@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b5r4r8c8i5761"
-path="res://.godot/imported/foliagePack_retina.png-b337113ef37c64c30a42aa1437c646fc.ctex"
+uid="uid://rr2xjoia6jcf"
+path="res://.godot/imported/download (1).jpeg-d7019eed8aeab9cf44b8369f68d04f2e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/sprites/foliagePack_retina.png"
-dest_files=["res://.godot/imported/foliagePack_retina.png-b337113ef37c64c30a42aa1437c646fc.ctex"]
+source_file="res://Assets/sprites/download (1).jpeg"
+dest_files=["res://.godot/imported/download (1).jpeg-d7019eed8aeab9cf44b8369f68d04f2e.ctex"]
 
 [params]
 
