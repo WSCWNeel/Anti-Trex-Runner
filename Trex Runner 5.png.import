@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+<<<<<<< HEAD
+uid="uid://k0rku6h57d6a"
+=======
+uid="uid://c84l184q2b6c7"
+>>>>>>> 0269cfcb5256d4f32e92d03d30a46e7772c927f0
+path="res://.godot/imported/Trex Runner 5.png-2b9d990e1608f07ad219b84053dc5a0d.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Trex Runner 5.png"
+dest_files=["res://.godot/imported/Trex Runner 5.png-2b9d990e1608f07ad219b84053dc5a0d.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1
