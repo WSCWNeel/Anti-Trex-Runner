@@ -1,7 +1,7 @@
 [gd_scene load_steps=26 format=3 uid="uid://dbdwbv7viey5k"]
 
 [ext_resource type="PackedScene" uid="uid://syxb2gp6tjds" path="res://Scene/player.tscn" id="1_0qonn"]
-[ext_resource type="Texture2D" uid="uid://dbrr16hctvhxx" path="res://Tiles 1.png" id="1_vjus4"]
+[ext_resource type="Texture2D" uid="uid://dkaa8fxy5g54b" path="res://Tiles 1.png" id="1_vjus4"]
 [ext_resource type="Texture2D" uid="uid://cql16grf28o0q" path="res://Assets/sprites/Layer_0003_6.png" id="1_x3fwd"]
 [ext_resource type="Texture2D" uid="uid://n6ib174wx6g4" path="res://Assets/sprites/Design 1.png" id="2_018ds"]
 [ext_resource type="Texture2D" uid="uid://byb1t32j4coms" path="res://Assets/sprites/Layer_0005_5.png" id="2_kky7y"]
