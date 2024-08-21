@@ -5,12 +5,12 @@
 [ext_resource type="Texture2D" uid="uid://darkoiv1eha6e" path="res://Assets/sprites/Trex Runner 3.png" id="4_u1nhe"]
 [ext_resource type="Texture2D" uid="uid://df76vgi5v7xqr" path="res://Assets/sprites/Trex Runner 4.png" id="5_y8jsv"]
 [ext_resource type="Texture2D" uid="uid://p0tgy2ktfiq2" path="res://Assets/sprites/Trex Runner 2.png" id="6_ah10j"]
-[ext_resource type="Texture2D" uid="uid://bro1prcq2lqvb" path="res://Trex Runner 6.png" id="7_bwioy"]
-[ext_resource type="Texture2D" uid="uid://bjt2ho8cj4k64" path="res://Trex Runner 1.png" id="7_ljgyb"]
-[ext_resource type="Texture2D" uid="uid://bhp7lbo663m01" path="res://Trex Runner 3.png" id="8_5xldg"]
+[ext_resource type="Texture2D" uid="uid://c4wdyw61qh1r2" path="res://Trex Runner 6.png" id="7_bwioy"]
+[ext_resource type="Texture2D" uid="uid://b2wa50dml3pdc" path="res://Assets/sprites/Trex Runner 1.png" id="7_ljgyb"]
+[ext_resource type="Texture2D" uid="uid://darkoiv1eha6e" path="res://Assets/sprites/Trex Runner 3.png" id="8_5xldg"]
 [ext_resource type="Texture2D" uid="uid://cp8lf7hhstttq" path="res://Assets/sprites/Trex Runner 8.png" id="9_a1rq8"]
-[ext_resource type="Texture2D" uid="uid://b2blu60sw21c1" path="res://Trex Runner 5.png" id="10_gmai7"]
-[ext_resource type="Texture2D" uid="uid://ccxlqb02f6pd0" path="res://Trex Runner 8.png" id="11_w5wcc"]
+[ext_resource type="Texture2D" uid="uid://gyx86w8kgjsg" path="res://Assets/sprites/Trex Runner 5.png" id="10_gmai7"]
+[ext_resource type="Texture2D" uid="uid://u2iqnrouhc1h" path="res://Trex Runner 8.png" id="11_w5wcc"]
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_kte1b"]
 animations = [{
