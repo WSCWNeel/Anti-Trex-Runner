@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c2j0och4smemf"
-path="res://.godot/imported/Tiles 2.png-9b0f059fdba7972a6a25e94f66e846d8.ctex"
+uid="uid://jp5b513duqd8"
+path="res://.godot/imported/Obstacle 3 bottom.png-d45fe866b40097bc07b85e5be1720ac6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tiles 2.png"
-dest_files=["res://.godot/imported/Tiles 2.png-9b0f059fdba7972a6a25e94f66e846d8.ctex"]
+source_file="res://Assets/sprites/Obstacle 3 bottom.png"
+dest_files=["res://.godot/imported/Obstacle 3 bottom.png-d45fe866b40097bc07b85e5be1720ac6.ctex"]
 
 [params]
 

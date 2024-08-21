@@ -6,7 +6,7 @@
 [ext_resource type="Texture2D" uid="uid://bt4nq5l37b2mw" path="res://Assets/sprites/world_tileset.png" id="2_pa3nk"]
 [ext_resource type="Texture2D" uid="uid://m7oc6466ks4f" path="res://Assets/sprites/Background.png" id="4_acxdx"]
 [ext_resource type="PackedScene" uid="uid://des76f0sy20bx" path="res://Scene/killzone.tscn" id="4_nanik"]
-[ext_resource type="Texture2D" uid="uid://db781tjx5cckn" path="res://Assets/sprites/Tiles 2.png" id="5_jtimx"]
+[ext_resource type="Texture2D" path="res://Assets/sprites/Tiles 2.png" id="5_jtimx"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_gpgw0"]
 texture = ExtResource("1_vjus4")
