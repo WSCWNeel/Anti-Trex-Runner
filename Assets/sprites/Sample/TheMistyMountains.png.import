@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bro1prcq2lqvb"
-path="res://.godot/imported/Trex Runner 6.png-884e5936c1e3b847ac686b2d4f574cbe.ctex"
+uid="uid://sc2r2iofa3gq"
+path="res://.godot/imported/TheMistyMountains.png-d8ebc1187c1c19aa8e77b23049a2204d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Trex Runner 6.png"
-dest_files=["res://.godot/imported/Trex Runner 6.png-884e5936c1e3b847ac686b2d4f574cbe.ctex"]
+source_file="res://Assets/sprites/Sample/TheMistyMountains.png"
+dest_files=["res://.godot/imported/TheMistyMountains.png-d8ebc1187c1c19aa8e77b23049a2204d.ctex"]
 
 [params]
 

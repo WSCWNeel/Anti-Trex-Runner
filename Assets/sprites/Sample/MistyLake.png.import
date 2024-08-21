@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c2j0och4smemf"
-path="res://.godot/imported/Tiles 2.png-9b0f059fdba7972a6a25e94f66e846d8.ctex"
+uid="uid://bpwliosq544yj"
+path="res://.godot/imported/MistyLake.png-afb85cfc3fe84e1381e0dd521388088f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tiles 2.png"
-dest_files=["res://.godot/imported/Tiles 2.png-9b0f059fdba7972a6a25e94f66e846d8.ctex"]
+source_file="res://Assets/sprites/Sample/MistyLake.png"
+dest_files=["res://.godot/imported/MistyLake.png-afb85cfc3fe84e1381e0dd521388088f.ctex"]
 
 [params]
 

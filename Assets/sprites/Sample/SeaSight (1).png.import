@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dp1a8s2urlgiy"
-path="res://.godot/imported/Obstacle 1 bottom.png-c9ebe531384a5dbf9dbd31a6595dba7e.ctex"
+uid="uid://clb44mq8v2tpw"
+path="res://.godot/imported/SeaSight (1).png-ba26eb49eb31960129a44176e44b415a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Obstacle 1 bottom.png"
-dest_files=["res://.godot/imported/Obstacle 1 bottom.png-c9ebe531384a5dbf9dbd31a6595dba7e.ctex"]
+source_file="res://Assets/sprites/Sample/SeaSight (1).png"
+dest_files=["res://.godot/imported/SeaSight (1).png-ba26eb49eb31960129a44176e44b415a.ctex"]
 
 [params]
 

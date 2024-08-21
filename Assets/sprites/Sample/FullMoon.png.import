@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://s6xpvus0nuw8"
-path="res://.godot/imported/Trex Runner 2.png-a8bfa9e90abcd61f39c3aa42260238f7.ctex"
+uid="uid://b0l8s1yqrmq3v"
+path="res://.godot/imported/FullMoon.png-d3199a818ab28e53852b28b80c63d5ec.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Trex Runner 2.png"
-dest_files=["res://.godot/imported/Trex Runner 2.png-a8bfa9e90abcd61f39c3aa42260238f7.ctex"]
+source_file="res://Assets/sprites/Sample/FullMoon.png"
+dest_files=["res://.godot/imported/FullMoon.png-d3199a818ab28e53852b28b80c63d5ec.ctex"]
 
 [params]
 
