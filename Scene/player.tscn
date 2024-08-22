@@ -54,12 +54,13 @@ animations = [{
 script = ExtResource("1_xviln")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
-position = Vector2(0, -12)
+position = Vector2(-4.75, -8.25)
+scale = Vector2(0.62, 0.7)
 sprite_frames = SubResource("SpriteFrames_x87pq")
 animation = &"Running"
 autoplay = "Running"
 speed_scale = 2.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(-3, -10)
+position = Vector2(-7, -10)
 shape = SubResource("CircleShape2D_vchcj")
