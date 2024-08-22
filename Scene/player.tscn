@@ -1,10 +1,14 @@
-[gd_scene load_steps=2 format=3 uid="uid://syxb2gp6tjds"]
+[gd_scene load_steps=3 format=3 uid="uid://b88ef3fkxoe5t"]
 
-[ext_resource type="PackedScene" uid="uid://syxb2gp6tjds" path="res://Scene/player.tscn" id="1_i76rv"]
+[sub_resource type="SpriteFrames" id="SpriteFrames_x87pq"]
 
-[node name="Player" instance=ExtResource("1_i76rv")]
+[sub_resource type="CircleShape2D" id="CircleShape2D_vchcj"]
 
-[node name="AnimatedSprite2D" parent="." index="0"]
-autoplay = "Running"
-frame = 3
-frame_progress = 0.960845
+[node name="Player" type="CharacterBody2D"]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_x87pq")
+frame_progress = 0.273102
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="AnimatedSprite2D"]
+shape = SubResource("CircleShape2D_vchcj")
