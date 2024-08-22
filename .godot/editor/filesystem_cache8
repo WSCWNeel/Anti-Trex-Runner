@@ -1,0 +1,87 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1724286265
+icon.svg::CompressedTexture2D::3086869355329196216::1724023521::1724023614::1::::<><>::
+README.md::TextFile::-1::1724141501::0::1::::<><>::
+Trex Runner 6.png::CompressedTexture2D::6952924573195718187::1724281672::1724284366::1::::<><>::
+Trex Runner 8.png::CompressedTexture2D::6953832470568068105::1724281672::1724284366::1::::<><>::
+::res://Assets/::1724024763
+::res://Assets/fonts/::1724023614
+PixelOperator8-Bold.ttf::FontFile::1187332425367987845::1724023521::1724023613::1::::<><>::
+PixelOperator8.ttf::FontFile::7919759481349476251::1724023521::1724023613::1::::<><>::
+::res://Assets/music/::1724023614
+time_for_adventure.mp3::AudioStreamMP3::5956389528906396996::1724023521::1724023614::1::::<><>::
+::res://Assets/sounds/::1724023615
+coin.wav::AudioStreamWAV::8663309979145699163::1724023521::1724023615::1::::<><>::
+explosion.wav::AudioStreamWAV::3299523226401472626::1724023521::1724023615::1::::<><>::
+hurt.wav::AudioStreamWAV::417365716330119384::1724023521::1724023615::1::::<><>::
+jump.wav::AudioStreamWAV::2184651953449325323::1724023521::1724023615::1::::<><>::
+power_up.wav::AudioStreamWAV::3333155311413357472::1724023521::1724023615::1::::<><>::
+tap.wav::AudioStreamWAV::261799987732793326::1724023521::1724023615::1::::<><>::
+::res://Assets/sprites/::1724284433
+11.jpg::CompressedTexture2D::5759656528829905754::1724284433::1724284433::1::::<><>::
+12.jpg::CompressedTexture2D::6767010482234354496::1724238603::1724238824::1::::<><>::
+13.jpg::CompressedTexture2D::5207529075470148892::1724238603::1724238824::1::::<><>::
+Anti - Trex Runner.png::CompressedTexture2D::681471297426955620::1723674325::1724023614::1::::<><>::
+Background.png::CompressedTexture2D::909181495746363655::1724050345::1724050479::1::::<><>::
+coin.png::CompressedTexture2D::3582617444714285479::1724023521::1724023614::1::::<><>::
+Design 1.png::CompressedTexture2D::976939615795122461::1724023521::1724023614::1::::<><>::
+download (1).jpeg::CompressedTexture2D::1229985690432199269::1724284433::1724284433::1::::<><>::
+download (2).jpeg::CompressedTexture2D::5963832904251745154::1724284433::1724284433::1::::<><>::
+download (3).jpeg::CompressedTexture2D::4670229391977914098::1724284433::1724284433::1::::<><>::
+download (4).jpeg::CompressedTexture2D::3722375887188604262::1724284433::1724284433::1::::<><>::
+download (5).jpeg::CompressedTexture2D::4699110323462698501::1724284433::1724284433::1::::<><>::
+download (6).jpeg::CompressedTexture2D::7219791126280962843::1724284433::1724284433::1::::<><>::
+download (6).png::CompressedTexture2D::6089253861043859768::1724284433::1724284433::1::::<><>::
+download.jpeg::CompressedTexture2D::7737490260189703356::1724284433::1724284433::1::::<><>::
+fruit.png::CompressedTexture2D::70488282655616981::1724023521::1724023614::1::::<><>::
+images (10).jpeg::CompressedTexture2D::4635172019278795562::1724284433::1724284433::1::::<><>::
+knight.png::CompressedTexture2D::6840876114059690064::1724023521::1724023614::1::::<><>::
+Mountain-Dusk.png::CompressedTexture2D::1824484787663472268::1724284433::1724284433::1::::<><>::
+Obstacle 1 bottom.png::CompressedTexture2D::1264878495546381970::1724238617::1724238824::1::::<><>::
+Obstacle 1.png::CompressedTexture2D::4243226038329820476::1724238617::1724238824::1::::<><>::
+Obstacle 2 bottom.png::CompressedTexture2D::7761208829092915365::1724238617::1724238824::1::::<><>::
+Obstacle 2.png::CompressedTexture2D::6165650154571032499::1724238617::1724238824::1::::<><>::
+Obstacle 3 bottom.png::CompressedTexture2D::664490171772511639::1724238617::1724238824::1::::<><>::
+Obstacle 3.png::CompressedTexture2D::8196964032010948671::1724238617::1724238824::1::::<><>::
+platforms.png::CompressedTexture2D::8521307949829708516::1724023521::1724023614::1::::<><>::
+slime_green.png::CompressedTexture2D::5553576094850117915::1724023521::1724023614::1::::<><>::
+slime_purple.png::CompressedTexture2D::7993184243724440644::1724023521::1724023614::1::::<><>::
+Tiles 1.png::CompressedTexture2D::6384280281337731629::1724281633::1724281903::1::::<><>::
+Tiles 2.png::CompressedTexture2D::6218410801626227492::1724139091::1724238824::1::::<><>::
+Trex Avatar.png::CompressedTexture2D::2900228817996137263::1724056416::1724136703::1::::<><>::
+Trex Runner 1.png::CompressedTexture2D::4326990664605646964::1724048940::1724050815::1::::<><>::
+Trex Runner 2.png::CompressedTexture2D::1105607738798046003::1724049377::1724050815::1::::<><>::
+Trex Runner 3.png::CompressedTexture2D::7194989097755288986::1724049652::1724050815::1::::<><>::
+Trex Runner 4.png::CompressedTexture2D::7578186414738087965::1724049921::1724050815::1::::<><>::
+Trex Runner 5.png::CompressedTexture2D::472135213680649982::1724051004::1724052678::1::::<><>::
+Trex Runner 6.png::CompressedTexture2D::2699950221882141952::1724281633::1724281903::1::::<><>::
+Trex Runner 7.png::CompressedTexture2D::1585649453930946695::1724052008::1724052678::1::::<><>::
+Trex Runner 8.png::CompressedTexture2D::5894476995634323002::1724281633::1724281903::1::::<><>::
+Trex Runner 9.png::CompressedTexture2D::9018457883261857863::1724054878::1724056503::1::::<><>::
+Trex Runner Avatar2.0.png::CompressedTexture2D::4247039606245117193::1724058019::1724058084::1::::<><>::
+world_tileset.png::CompressedTexture2D::3780695155300270690::1724023521::1724023614::1::::<><>::
+world_tileset_1.png::CompressedTexture2D::8427834467759807212::1724023521::1724023614::1::::<><>::
+::res://Assets/sprites/Sample/::1724281908
+14.png::CompressedTexture2D::1089531199396156422::1724281633::1724281906::1::::<><>::
+00016.png::CompressedTexture2D::466671345836860052::1724281633::1724281908::1::::<><>::
+00017.png::CompressedTexture2D::8167269292798159407::1724281633::1724281906::1::::<><>::
+Ativo 1.png::CompressedTexture2D::6259099294577818145::1724281633::1724281906::1::::<><>::
+DesertSunset.png::CompressedTexture2D::4226210178217482478::1724281633::1724281906::1::::<><>::
+forest.jpg::CompressedTexture2D::4194732089764997921::1724281633::1724281904::1::::<><>::
+FullMoon.png::CompressedTexture2D::4165887138422734973::1724281633::1724281906::1::::<><>::
+MistyLake.png::CompressedTexture2D::3485352586026184693::1724281633::1724281907::1::::<><>::
+ocean.jpg::CompressedTexture2D::523992482371821972::1724281633::1724281904::1::::<><>::
+river.jpg::CompressedTexture2D::3866055939927254446::1724281633::1724281904::1::::<><>::
+SeaSight (1).png::CompressedTexture2D::5548796262497675688::1724281633::1724281908::1::::<><>::
+TheMistyMountains.png::CompressedTexture2D::1269199089425479644::1724281633::1724281908::1::::<><>::
+::res://Scene/::1724286003
+coin.tscn::PackedScene::5295597656225589052::1724023521::0::1::::<><>::res://scripts/coin.gd<>uid://brbpgk5eext0r::::res://Assets/sprites/coin.png
+game.tscn::PackedScene::7236982741003396902::1724285826::0::1::::<><>::uid://syxb2gp6tjds::::res://Scene/player.tscn<>res://Tiles 1.png<>uid://n6ib174wx6g4::::res://Assets/sprites/Design 1.png<>uid://bt4nq5l37b2mw::::res://Assets/sprites/world_tileset.png<>uid://m7oc6466ks4f::::res://Assets/sprites/Background.png<>uid://rr2xjoia6jcf::::res://Assets/sprites/download (1).jpeg<>uid://des76f0sy20bx::::res://Scene/killzone.tscn
+killzone.tscn::PackedScene::7479174830671948277::1724281633::0::1::::<><>::res://scripts/killzone.gd
+main_menu.tscn::PackedScene::6963150783325351498::1724281633::0::1::::<><>::res://scripts/Main Menu.gd
+player.gd::GDScript::-1::1724118871::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::1314343956332546564::1724286003::0::1::::<><>::res://Scene/player.gd<>uid://b2wa50dml3pdc::::res://Assets/sprites/Trex Runner 1.png<>uid://darkoiv1eha6e::::res://Assets/sprites/Trex Runner 3.png<>uid://df76vgi5v7xqr::::res://Assets/sprites/Trex Runner 4.png<>uid://p0tgy2ktfiq2::::res://Assets/sprites/Trex Runner 2.png<>uid://c6cbwftyd6fmx::::res://Trex Runner 6.png<>uid://cp8lf7hhstttq::::res://Assets/sprites/Trex Runner 8.png<>uid://c6cqutf7icdbl::::res://Trex Runner 8.png
+::res://scripts/::1724281633
+coin.gd::GDScript::-1::1724023521::0::1::::<>Area2D<>::
+killzone.gd::GDScript::-1::1724281633::0::1::::<>Area2D<>::
+Main Menu.gd::GDScript::-1::1724136703::0::1::::<>Node2D<>::
