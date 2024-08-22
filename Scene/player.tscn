@@ -1,96 +1,10 @@
-[gd_scene load_steps=11 format=3 uid="uid://syxb2gp6tjds"]
+[gd_scene load_steps=2 format=3 uid="uid://syxb2gp6tjds"]
 
-[ext_resource type="Script" path="res://Scene/player.gd" id="1_3faxs"]
-[ext_resource type="Texture2D" uid="uid://b2wa50dml3pdc" path="res://Assets/sprites/Trex Runner 1.png" id="3_8jq3h"]
-[ext_resource type="Texture2D" uid="uid://darkoiv1eha6e" path="res://Assets/sprites/Trex Runner 3.png" id="4_u1nhe"]
-[ext_resource type="Texture2D" uid="uid://df76vgi5v7xqr" path="res://Assets/sprites/Trex Runner 4.png" id="5_y8jsv"]
-[ext_resource type="Texture2D" uid="uid://p0tgy2ktfiq2" path="res://Assets/sprites/Trex Runner 2.png" id="6_ah10j"]
-[ext_resource type="Texture2D" uid="uid://c6cbwftyd6fmx" path="res://Trex Runner 6.png" id="7_bwioy"]
-[ext_resource type="Texture2D" uid="uid://cp8lf7hhstttq" path="res://Assets/sprites/Trex Runner 8.png" id="9_a1rq8"]
-[ext_resource type="Texture2D" uid="uid://c6cqutf7icdbl" path="res://Trex Runner 8.png" id="11_w5wcc"]
+[ext_resource type="PackedScene" uid="uid://syxb2gp6tjds" path="res://Scene/player.tscn" id="1_i76rv"]
 
-[sub_resource type="SpriteFrames" id="SpriteFrames_kte1b"]
-animations = [{
-"frames": [{
-"duration": 1.0,
-"texture": ExtResource("9_a1rq8")
-}, {
-"duration": 1.0,
-"texture": ExtResource("3_8jq3h")
-}],
-"loop": true,
-"name": &"Jumping",
-"speed": 5.0
-}, {
-"frames": [{
-"duration": 1.0,
-"texture": ExtResource("3_8jq3h")
-}, {
-"duration": 1.0,
-"texture": ExtResource("4_u1nhe")
-}, {
-"duration": 1.0,
-"texture": ExtResource("5_y8jsv")
-}, {
-"duration": 1.0,
-"texture": ExtResource("6_ah10j")
-}, {
-"duration": 1.0,
-"texture": ExtResource("5_y8jsv")
-}, {
-"duration": 1.0,
-"texture": ExtResource("4_u1nhe")
-}, {
-"duration": 1.0,
-"texture": null
-}, {
-"duration": 1.0,
-"texture": null
-}, {
-"duration": 1.0,
-"texture": ExtResource("7_bwioy")
-}, {
-"duration": 1.0,
-"texture": ExtResource("7_bwioy")
-}, {
-"duration": 1.0,
-"texture": null
-}, {
-"duration": 1.0,
-"texture": null
-}, {
-"duration": 1.0,
-"texture": ExtResource("11_w5wcc")
-}, {
-"duration": 0.25,
-"texture": ExtResource("3_8jq3h")
-}],
-"loop": true,
-"name": &"Running",
-"speed": 12.5
-}, {
-"frames": [{
-"duration": 1.0,
-"texture": ExtResource("3_8jq3h")
-}],
-"loop": true,
-"name": &"Still",
-"speed": 5.0
-}]
+[node name="Player" instance=ExtResource("1_i76rv")]
 
-[sub_resource type="CircleShape2D" id="CircleShape2D_8lfs0"]
-
-[node name="Player" type="CharacterBody2D"]
-collision_layer = 2
-script = ExtResource("1_3faxs")
-
-[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
-position = Vector2(1, -12)
-sprite_frames = SubResource("SpriteFrames_kte1b")
-animation = &"Running"
-autoplay = "Jumping"
-frame_progress = 0.497552
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(-2, -10)
-shape = SubResource("CircleShape2D_8lfs0")
+[node name="AnimatedSprite2D" parent="." index="0"]
+autoplay = "Running"
+frame = 3
+frame_progress = 0.960845
