@@ -1,0 +1,88 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1724389927
+icon.svg::CompressedTexture2D::3086869355329196216::1724389921::1724389932::1::::<><>::
+README.md::TextFile::-1::1724389921::0::1::::<><>::
+Trex Runner 6.png::CompressedTexture2D::6952924573195718187::1724389921::1724389932::1::::<><>::
+Trex Runner 8.png::CompressedTexture2D::6953832470568068105::1724389921::1724389932::1::::<><>::
+::res://Assets/::1724389921
+::res://Assets/fonts/::1724389926
+PixelOperator8-Bold.ttf::FontFile::841403815693665207::1724389921::1724389931::1::::<><>::
+PixelOperator8.ttf::FontFile::374270697859431139::1724389921::1724389931::1::::<><>::
+::res://Assets/music/::1724389921
+time_for_adventure.mp3::AudioStreamMP3::5956389528906396996::1724389921::1724389931::1::::<><>::
+::res://Assets/sounds/::1724389921
+coin.wav::AudioStreamWAV::8663309979145699163::1724389921::1724389936::1::::<><>::
+explosion.wav::AudioStreamWAV::3299523226401472626::1724389921::1724389936::1::::<><>::
+hurt.wav::AudioStreamWAV::417365716330119384::1724389921::1724389936::1::::<><>::
+jump.wav::AudioStreamWAV::2184651953449325323::1724389921::1724389936::1::::<><>::
+power_up.wav::AudioStreamWAV::3333155311413357472::1724389921::1724389936::1::::<><>::
+tap.wav::AudioStreamWAV::261799987732793326::1724389921::1724389936::1::::<><>::
+::res://Assets/sprites/::1724389927
+11.jpg::CompressedTexture2D::5759656528829905754::1724389921::1724389932::1::::<><>::
+12.jpg::CompressedTexture2D::6767010482234354496::1724389921::1724389932::1::::<><>::
+13.jpg::CompressedTexture2D::5207529075470148892::1724389921::1724389932::1::::<><>::
+Anti - Trex Runner.png::CompressedTexture2D::681471297426955620::1724389921::1724389932::1::::<><>::
+Background.png::CompressedTexture2D::909181495746363655::1724389921::1724389933::1::::<><>::
+coin.png::CompressedTexture2D::3582617444714285479::1724389921::1724389932::1::::<><>::
+Design 1.png::CompressedTexture2D::976939615795122461::1724389921::1724389932::1::::<><>::
+download (1).jpeg::CompressedTexture2D::1229985690432199269::1724389921::1724389932::1::::<><>::
+download (2).jpeg::CompressedTexture2D::5963832904251745154::1724389921::1724389932::1::::<><>::
+download (3).jpeg::CompressedTexture2D::4670229391977914098::1724389921::1724389932::1::::<><>::
+download (4).jpeg::CompressedTexture2D::3722375887188604262::1724389921::1724389931::1::::<><>::
+download (5).jpeg::CompressedTexture2D::4699110323462698501::1724389921::1724389931::1::::<><>::
+download (6).jpeg::CompressedTexture2D::7219791126280962843::1724389921::1724389931::1::::<><>::
+download (6).png::CompressedTexture2D::6089253861043859768::1724389921::1724389932::1::::<><>::
+download.jpeg::CompressedTexture2D::7737490260189703356::1724389921::1724389931::1::::<><>::
+fruit.png::CompressedTexture2D::70488282655616981::1724389921::1724389931::1::::<><>::
+images (7).jpeg::CompressedTexture2D::558792467616309869::1724389927::1724389931::1::::<><>::
+images (10).jpeg::CompressedTexture2D::4635172019278795562::1724389921::1724389931::1::::<><>::
+knight.png::CompressedTexture2D::6840876114059690064::1724389921::1724389931::1::::<><>::
+Mountain-Dusk.png::CompressedTexture2D::1824484787663472268::1724389921::1724389932::1::::<><>::
+Obstacle 1 bottom.png::CompressedTexture2D::8563106280973404140::1724389921::1724389930::1::::<><>::
+Obstacle 1.png::CompressedTexture2D::4007941913926315518::1724389921::1724389930::1::::<><>::
+Obstacle 2 bottom.png::CompressedTexture2D::3476092821688434159::1724389921::1724389930::1::::<><>::
+Obstacle 2.png::CompressedTexture2D::2212175345568214346::1724389921::1724389930::1::::<><>::
+Obstacle 3 bottom.png::CompressedTexture2D::227366501185191246::1724389921::1724389930::1::::<><>::
+Obstacle 3.png::CompressedTexture2D::8819449641972348907::1724389921::1724389930::1::::<><>::
+platforms.png::CompressedTexture2D::8521307949829708516::1724389921::1724389931::1::::<><>::
+slime_green.png::CompressedTexture2D::5553576094850117915::1724389921::1724389931::1::::<><>::
+slime_purple.png::CompressedTexture2D::7993184243724440644::1724389921::1724389931::1::::<><>::
+Tiles 1.png::CompressedTexture2D::2373963924071567378::1724389921::1724389931::1::::<><>::
+Tiles 2.png::CompressedTexture2D::6218410801626227492::1724389921::1724389933::1::::<><>::
+Trex Avatar.png::CompressedTexture2D::2900228817996137263::1724389921::1724389932::1::::<><>::
+Trex Runner 1.png::CompressedTexture2D::978249747589911682::1724389921::1724389931::1::::<><>::
+Trex Runner 2.png::CompressedTexture2D::2401539280765627136::1724389921::1724389931::1::::<><>::
+Trex Runner 3.png::CompressedTexture2D::500142952979723368::1724389921::1724389931::1::::<><>::
+Trex Runner 4.png::CompressedTexture2D::1451372234643140778::1724389921::1724389931::1::::<><>::
+Trex Runner 5.png::CompressedTexture2D::911310003377014069::1724389921::1724389931::1::::<><>::
+Trex Runner 6.png::CompressedTexture2D::4219133193712027765::1724389921::1724389931::1::::<><>::
+Trex Runner 7.png::CompressedTexture2D::3558392660125041566::1724389921::1724389931::1::::<><>::
+Trex Runner 8.png::CompressedTexture2D::6005146528978708747::1724389921::1724389931::1::::<><>::
+Trex Runner 9.png::CompressedTexture2D::9018457883261857863::1724389921::1724389932::1::::<><>::
+Trex Runner Avatar2.0.png::CompressedTexture2D::4247039606245117193::1724389921::1724389932::1::::<><>::
+world_tileset.png::CompressedTexture2D::3780695155300270690::1724389921::1724389932::1::::<><>::
+world_tileset_1.png::CompressedTexture2D::8427834467759807212::1724389921::1724389932::1::::<><>::
+::res://Assets/sprites/Sample/::1724389921
+14.png::CompressedTexture2D::1089531199396156422::1724389921::1724389932::1::::<><>::
+00016.png::CompressedTexture2D::466671345836860052::1724389921::1724389934::1::::<><>::
+00017.png::CompressedTexture2D::8167269292798159407::1724389921::1724389934::1::::<><>::
+Ativo 1.png::CompressedTexture2D::6259099294577818145::1724389921::1724389933::1::::<><>::
+DesertSunset.png::CompressedTexture2D::4226210178217482478::1724389921::1724389934::1::::<><>::
+forest.jpg::CompressedTexture2D::4194732089764997921::1724389921::1724389935::1::::<><>::
+FullMoon.png::CompressedTexture2D::4165887138422734973::1724389921::1724389936::1::::<><>::
+MistyLake.png::CompressedTexture2D::3485352586026184693::1724389921::1724389936::1::::<><>::
+ocean.jpg::CompressedTexture2D::523992482371821972::1724389921::1724389934::1::::<><>::
+river.jpg::CompressedTexture2D::3866055939927254446::1724389921::1724389933::1::::<><>::
+SeaSight (1).png::CompressedTexture2D::5548796262497675688::1724389921::1724389936::1::::<><>::
+TheMistyMountains.png::CompressedTexture2D::1269199089425479644::1724389921::1724389936::1::::<><>::
+::res://Scene/::1724389927
+coin.tscn::PackedScene::5295597656225589052::1724368055::0::1::::<><>::res://scripts/coin.gd<>uid://brbpgk5eext0r::::res://Assets/sprites/coin.png
+game.tscn::PackedScene::7236982741003396902::1724389900::0::1::::<><>::uid://syxb2gp6tjds::::res://Scene/player.tscn<>uid://dkaa8fxy5g54b::::res://Assets/sprites/Tiles 1.png<>uid://n6ib174wx6g4::::res://Assets/sprites/Design 1.png<>uid://bt4nq5l37b2mw::::res://Assets/sprites/world_tileset.png<>uid://chphyp8fcnth1::::res://Scene/coin.tscn<>uid://m7oc6466ks4f::::res://Assets/sprites/Background.png<>uid://des76f0sy20bx::::res://Scene/killzone.tscn
+killzone.tscn::PackedScene::7479174830671948277::1724368055::0::1::::<><>::res://scripts/killzone.gd
+main_menu.tscn::PackedScene::6963150783325351498::1724368055::0::1::::<><>::res://scripts/Main Menu.gd
+player.gd::GDScript::-1::1724389921::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::1314343956332546564::1724389184::0::1::::<><>::res://Scene/player.gd<>uid://b2wa50dml3pdc::::res://Assets/sprites/Trex Runner 1.png<>uid://darkoiv1eha6e::::res://Assets/sprites/Trex Runner 3.png<>uid://df76vgi5v7xqr::::res://Assets/sprites/Trex Runner 4.png<>uid://p0tgy2ktfiq2::::res://Assets/sprites/Trex Runner 2.png<>uid://bep41yivp6l7m::::res://Assets/sprites/Trex Runner 6.png<>uid://cp8lf7hhstttq::::res://Assets/sprites/Trex Runner 8.png<>uid://b1rkee22ih2nl::::res://Assets/sprites/Trex Runner Avatar2.0.png<>uid://wudods4tnkt8::::res://Assets/sprites/Trex Runner 7.png
+::res://scripts/::1724389927
+coin.gd::GDScript::-1::1724389921::0::1::::<>Area2D<>::
+killzone.gd::GDScript::-1::1724389927::0::1::::<>Area2D<>::
+Main Menu.gd::GDScript::-1::1724389921::0::1::::<>Node2D<>::
