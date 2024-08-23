@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://df76vgi5v7xqr"
-path="res://.godot/imported/Trex Runner 4.png-7300e6bdc5a6dac734eedf5f98ed46c4.ctex"
+uid="uid://bjt2ho8cj4k64"
+path="res://.godot/imported/Trex Runner 1.png-e0546aec167aaac2c80a12a44edc7323.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/sprites/Trex Runner 4.png"
-dest_files=["res://.godot/imported/Trex Runner 4.png-7300e6bdc5a6dac734eedf5f98ed46c4.ctex"]
+source_file="res://Trex Runner 1.png"
+dest_files=["res://.godot/imported/Trex Runner 1.png-e0546aec167aaac2c80a12a44edc7323.ctex"]
 
 [params]
 
