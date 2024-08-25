@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://pr1oje1halx3"
-path="res://.godot/imported/14.png-a2f9782430c4fb1a5f295d7b6e3cea87.ctex"
+uid="uid://cukb1q7nn5acr"
+path="res://.godot/imported/Ativo 1.png-20ed0a2ebce83ed5eedd429a44af08a9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/sprites/Sample/14.png"
-dest_files=["res://.godot/imported/14.png-a2f9782430c4fb1a5f295d7b6e3cea87.ctex"]
+source_file="res://Assets/sprites/Ativo 1.png"
+dest_files=["res://.godot/imported/Ativo 1.png-20ed0a2ebce83ed5eedd429a44af08a9.ctex"]
 
 [params]
 

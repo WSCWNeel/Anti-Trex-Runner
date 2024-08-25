@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://hp3cybykkluq"
-path="res://.godot/imported/ocean.jpg-c877b048fb082317263ed79d6ff44ee8.ctex"
+uid="uid://couv41jt0qo55"
+path="res://.godot/imported/TheMistyMountains.png-ab7467d450fc2db7b88132809c3f52c2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/sprites/Sample/ocean.jpg"
-dest_files=["res://.godot/imported/ocean.jpg-c877b048fb082317263ed79d6ff44ee8.ctex"]
+source_file="res://Assets/sprites/TheMistyMountains.png"
+dest_files=["res://.godot/imported/TheMistyMountains.png-ab7467d450fc2db7b88132809c3f52c2.ctex"]
 
 [params]
 

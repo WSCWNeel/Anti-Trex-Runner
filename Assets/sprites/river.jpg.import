@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cvf7pli2cu5aj"
-path="res://.godot/imported/Ativo 1.png-62679243f9af345ef8b56cc662cdc13e.ctex"
+uid="uid://cifhjfsajf7qp"
+path="res://.godot/imported/river.jpg-b654f3a8eaea915092d0be39d059fe30.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/sprites/Sample/Ativo 1.png"
-dest_files=["res://.godot/imported/Ativo 1.png-62679243f9af345ef8b56cc662cdc13e.ctex"]
+source_file="res://Assets/sprites/river.jpg"
+dest_files=["res://.godot/imported/river.jpg-b654f3a8eaea915092d0be39d059fe30.ctex"]
 
 [params]
 

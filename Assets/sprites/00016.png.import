@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b0l8s1yqrmq3v"
-path="res://.godot/imported/FullMoon.png-d3199a818ab28e53852b28b80c63d5ec.ctex"
+uid="uid://cp432m6f415ir"
+path="res://.godot/imported/00016.png-17f1258be549f4305beab1c2c4b991a9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/sprites/Sample/FullMoon.png"
-dest_files=["res://.godot/imported/FullMoon.png-d3199a818ab28e53852b28b80c63d5ec.ctex"]
+source_file="res://Assets/sprites/00016.png"
+dest_files=["res://.godot/imported/00016.png-17f1258be549f4305beab1c2c4b991a9.ctex"]
 
 [params]
 

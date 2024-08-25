@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b1hhcggpwch87"
-path="res://.godot/imported/DesertSunset.png-2b32bac215d495d9d2e83acdef23c050.ctex"
+uid="uid://dxi2osogfcggm"
+path="res://.godot/imported/FullMoon.png-bf18f0b983546aab16d36e64c1f98cb3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/sprites/Sample/DesertSunset.png"
-dest_files=["res://.godot/imported/DesertSunset.png-2b32bac215d495d9d2e83acdef23c050.ctex"]
+source_file="res://Assets/sprites/FullMoon.png"
+dest_files=["res://.godot/imported/FullMoon.png-bf18f0b983546aab16d36e64c1f98cb3.ctex"]
 
 [params]
 
