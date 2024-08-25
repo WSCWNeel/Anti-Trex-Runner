@@ -7257,7 +7257,7 @@ sources/0 = SubResource("TileSetAtlasSource_gpgw0")
 sources/1 = SubResource("TileSetAtlasSource_h32lh")
 
 [sub_resource type="WorldBoundaryShape2D" id="WorldBoundaryShape2D_iuq7h"]
-distance = -62.0
+distance = -576.0
 
 [node name="Game" type="Node2D"]
 
@@ -7273,7 +7273,7 @@ layer_1/tile_data = PackedInt32Array(131073, 0, 0, 131074, 0, 0, 131075, 0, 0, 1
 [node name="Killzone" parent="." instance=ExtResource("4_nanik")]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Killzone"]
-position = Vector2(16, 23)
+position = Vector2(0, 298)
 shape = SubResource("WorldBoundaryShape2D_iuq7h")
 
 [node name="Coins" type="Node2D" parent="."]
