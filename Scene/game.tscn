@@ -1,10 +1,9 @@
-[gd_scene load_steps=14 format=3 uid="uid://dbdwbv7viey5k"]
+[gd_scene load_steps=13 format=3 uid="uid://dbdwbv7viey5k"]
 
 [ext_resource type="PackedScene" uid="uid://syxb2gp6tjds" path="res://Scene/player.tscn" id="1_0qonn"]
 [ext_resource type="Texture2D" uid="uid://dkaa8fxy5g54b" path="res://Tiles 1.png" id="1_vjus4"]
 [ext_resource type="Texture2D" uid="uid://n6ib174wx6g4" path="res://Assets/sprites/Design 1.png" id="2_018ds"]
 [ext_resource type="Texture2D" uid="uid://bt4nq5l37b2mw" path="res://Assets/sprites/world_tileset.png" id="2_pa3nk"]
-[ext_resource type="PackedScene" uid="uid://chphyp8fcnth1" path="res://Scene/coin.tscn" id="3_63ago"]
 [ext_resource type="Texture2D" uid="uid://m7oc6466ks4f" path="res://Assets/sprites/Background.png" id="4_acxdx"]
 [ext_resource type="PackedScene" uid="uid://des76f0sy20bx" path="res://Scene/killzone.tscn" id="4_nanik"]
 
@@ -7275,65 +7274,6 @@ layer_1/tile_data = PackedInt32Array(131073, 0, 0, 131074, 0, 0, 131075, 0, 0, 1
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Killzone"]
 position = Vector2(16, 23)
 shape = SubResource("WorldBoundaryShape2D_iuq7h")
-
-[node name="Coins" type="Node2D" parent="."]
-
-[node name="Coin9" parent="Coins" instance=ExtResource("3_63ago")]
-position = Vector2(1558, -21)
-
-[node name="Coin8" parent="Coins" instance=ExtResource("3_63ago")]
-position = Vector2(2135, 29)
-
-[node name="Coin10" parent="Coins" instance=ExtResource("3_63ago")]
-position = Vector2(265, 10)
-
-[node name="Coin7" parent="Coins" instance=ExtResource("3_63ago")]
-position = Vector2(2264, -6)
-
-[node name="Coin6" parent="Coins" instance=ExtResource("3_63ago")]
-position = Vector2(2006, -44)
-
-[node name="Coin5" parent="Coins" instance=ExtResource("3_63ago")]
-position = Vector2(1800, 27)
-
-[node name="Coin4" parent="Coins" instance=ExtResource("3_63ago")]
-position = Vector2(1216, 24)
-
-[node name="Coin3" parent="Coins" instance=ExtResource("3_63ago")]
-position = Vector2(741, 21)
-
-[node name="Coin2" parent="Coins" instance=ExtResource("3_63ago")]
-position = Vector2(1020, 24)
-
-[node name="Coin" parent="Coins" instance=ExtResource("3_63ago")]
-position = Vector2(439, -10)
-
-[node name="Coin11" parent="Coins" instance=ExtResource("3_63ago")]
-position = Vector2(3081, -5)
-
-[node name="Coin12" parent="Coins" instance=ExtResource("3_63ago")]
-position = Vector2(2520, 26)
-
-[node name="Coin13" parent="Coins" instance=ExtResource("3_63ago")]
-position = Vector2(2596, -21)
-
-[node name="Coin14" parent="Coins" instance=ExtResource("3_63ago")]
-position = Vector2(2440, -21)
-
-[node name="Coin15" parent="Coins" instance=ExtResource("3_63ago")]
-position = Vector2(3290, 25)
-
-[node name="Coin16" parent="Coins" instance=ExtResource("3_63ago")]
-position = Vector2(3495, 24)
-
-[node name="Coin17" parent="Coins" instance=ExtResource("3_63ago")]
-position = Vector2(2902, 25)
-
-[node name="Coin18" parent="Coins" instance=ExtResource("3_63ago")]
-position = Vector2(2710, 24)
-
-[node name="Coin19" parent="Coins" instance=ExtResource("3_63ago")]
-position = Vector2(3198, -38)
 
 [node name="Player2" parent="." instance=ExtResource("1_0qonn")]
 position = Vector2(40, 32)
