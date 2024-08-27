@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wudods4tnkt8"
-path="res://.godot/imported/Trex Runner 7.png-fcf4989606466df53557578e52121a19.ctex"
+path="res://.godot/imported/Trex Runner 7.png-a3f541f22f48cbd83779376f0c694463.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/sprites/Trex Runner 7.png"
-dest_files=["res://.godot/imported/Trex Runner 7.png-fcf4989606466df53557578e52121a19.ctex"]
+source_file="res://Assets/sprites/T rex character/Trex Runner 7.png"
+dest_files=["res://.godot/imported/Trex Runner 7.png-a3f541f22f48cbd83779376f0c694463.ctex"]
 
 [params]
 

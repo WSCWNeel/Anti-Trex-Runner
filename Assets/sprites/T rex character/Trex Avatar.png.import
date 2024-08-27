@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhk5lyydgf4gh"
-path="res://.godot/imported/Trex Avatar.png-f9fb1aeeff18b6e9f225e8ff0875b17d.ctex"
+path="res://.godot/imported/Trex Avatar.png-1095d8efa8b37a7b9f58efadf06da2a8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/sprites/Trex Avatar.png"
-dest_files=["res://.godot/imported/Trex Avatar.png-f9fb1aeeff18b6e9f225e8ff0875b17d.ctex"]
+source_file="res://Assets/sprites/T rex character/Trex Avatar.png"
+dest_files=["res://.godot/imported/Trex Avatar.png-1095d8efa8b37a7b9f58efadf06da2a8.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxi2osogfcggm"
-path="res://.godot/imported/FullMoon.png-bf18f0b983546aab16d36e64c1f98cb3.ctex"
+path="res://.godot/imported/FullMoon.png-68edf1ee0f6e5e3b29f4d4e2ee3cc398.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/sprites/FullMoon.png"
-dest_files=["res://.godot/imported/FullMoon.png-bf18f0b983546aab16d36e64c1f98cb3.ctex"]
+source_file="res://Assets/sprites/Fantasy Background/FullMoon.png"
+dest_files=["res://.godot/imported/FullMoon.png-68edf1ee0f6e5e3b29f4d4e2ee3cc398.ctex"]
 
 [params]
 

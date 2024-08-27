@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://byixwn0tjg2ff"
-path="res://.godot/imported/MistyLake.png-50ac3fd2a870ba01c459aac350b4597a.ctex"
+path="res://.godot/imported/MistyLake.png-700ef9f43b51bb78a83b9a656db89452.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/sprites/MistyLake.png"
-dest_files=["res://.godot/imported/MistyLake.png-50ac3fd2a870ba01c459aac350b4597a.ctex"]
+source_file="res://Assets/sprites/Fantasy Background/MistyLake.png"
+dest_files=["res://.godot/imported/MistyLake.png-700ef9f43b51bb78a83b9a656db89452.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://clegt7pklfgmt"
-path="res://.godot/imported/slime_green.png-da8545aa99e8b88a68bf74eaf645ec27.ctex"
+uid="uid://cpc6j1fjteh0w"
+path="res://.godot/imported/Tiles 3.png-2a85dfabc1d9941ed96c8f9da5d51519.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/sprites/Godot/slime_green.png"
-dest_files=["res://.godot/imported/slime_green.png-da8545aa99e8b88a68bf74eaf645ec27.ctex"]
+source_file="res://Assets/sprites/Tiles 3.png"
+dest_files=["res://.godot/imported/Tiles 3.png-2a85dfabc1d9941ed96c8f9da5d51519.ctex"]
 
 [params]
 
