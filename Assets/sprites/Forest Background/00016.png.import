@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cukb1q7nn5acr"
-path="res://.godot/imported/Ativo 1.png-20ed0a2ebce83ed5eedd429a44af08a9.ctex"
+uid="uid://cp432m6f415ir"
+path="res://.godot/imported/00016.png-aa7d1311067cdc58fac382d2cc8a4243.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/sprites/Ativo 1.png"
-dest_files=["res://.godot/imported/Ativo 1.png-20ed0a2ebce83ed5eedd429a44af08a9.ctex"]
+source_file="res://Assets/sprites/Forest Background/00016.png"
+dest_files=["res://.godot/imported/00016.png-aa7d1311067cdc58fac382d2cc8a4243.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bgc8birvvuh8s"
-path="res://.godot/imported/00017.png-30d572c4fff8ac85824cce1e029c62fd.ctex"
+uid="uid://bvn47wrm6sxpq"
+path="res://.godot/imported/DesertSunset.png-0239be4bf77805e1362c6e7e0c831b30.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/sprites/00017.png"
-dest_files=["res://.godot/imported/00017.png-30d572c4fff8ac85824cce1e029c62fd.ctex"]
+source_file="res://Assets/sprites/Forest Background/DesertSunset.png"
+dest_files=["res://.godot/imported/DesertSunset.png-0239be4bf77805e1362c6e7e0c831b30.ctex"]
 
 [params]
 
