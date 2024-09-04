@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cl86usdbbw2fh"
-path="res://.godot/imported/ocean.jpg-8dd072a91cf431814ca92dbb161d8775.ctex"
+uid="uid://dn8wng3scbbm4"
+path="res://.godot/imported/2.jpg-51977ac272e4279633bca0c548c0ed2d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/sprites/Forest Background/ocean.jpg"
-dest_files=["res://.godot/imported/ocean.jpg-8dd072a91cf431814ca92dbb161d8775.ctex"]
+source_file="res://Assets/sprites/Forest Background/2.jpg"
+dest_files=["res://.godot/imported/2.jpg-51977ac272e4279633bca0c548c0ed2d.ctex"]
 
 [params]
 
