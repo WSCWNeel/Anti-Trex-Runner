@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bdmu2wwbfhpjp"
-path="res://.godot/imported/Tiles 3 Animation 3.png-77c881168b17abd4f8576f68e1f3d50b.ctex"
+path="res://.godot/imported/Tiles 3 Animation 3.png-b6e1ec90420e52e4d75a6f876427f349.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/sprites/Tiles 3 Animation 3.png"
-dest_files=["res://.godot/imported/Tiles 3 Animation 3.png-77c881168b17abd4f8576f68e1f3d50b.ctex"]
+source_file="res://Tiles 3 Animation 3.png"
+dest_files=["res://.godot/imported/Tiles 3 Animation 3.png-b6e1ec90420e52e4d75a6f876427f349.ctex"]
 
 [params]
 
