@@ -1,5 +1,13 @@
 extends CharacterBody2D
 
+@onready var timer = $Timer
+func _on_body_entered(body):
+	print("You died")
+	body.get_node("Tilemap").queue_free()
+	timer.start(60)
+	
+func _on_timer_timeout():
+	Engine.time_scale = 0.1
 
 const SPEED = 595.0
 const JUMP_VELOCITY = -395.0
