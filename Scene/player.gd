@@ -10,7 +10,7 @@ func _on_timer_timeout():
 	Engine.time_scale = 0.1
 
 const SPEED = 595.0
-const JUMP_VELOCITY = -395.0
+const JUMP_VELOCITY = -305.0
 const direction = 1
 
 # Get the gravity from the project settings to be synced with RigidBody nodes.
