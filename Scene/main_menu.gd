@@ -1,19 +1,13 @@
-extends Node2D
+extends Control
 
+func _process(delta):
+	pass
 
+func _on_start_pressed():
+	get_tree().change_scene_to_file("res://Scene/game.tscn")
 
-func _on_StartButton_pressed():
-	get_tree().change_scene("res://Scene/game.tscn")
-
-func _on_QuitButton_pressed():
+func _on_quit_pressed():
 	get_tree().quit()
 
-func _on_PauseButton_pressed():
-	get_tree().paused = true
-	$PauseButton.hide()
-	$ResumeButton.show()
-
-func _on_ResumeButton_pressed():
-	get_tree().paused = false
-	$ResumeButton.hide()
-	$PauseButton.show()
+func _on_about_pressed():
+	get_tree().change_scene_to_file("res://Scene/About Game.tscn")
