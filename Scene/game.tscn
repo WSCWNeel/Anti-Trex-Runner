@@ -1,12 +1,10 @@
-[gd_scene load_steps=53 format=3 uid="uid://dbdwbv7viey5k"]
+[gd_scene load_steps=51 format=3 uid="uid://dbdwbv7viey5k"]
 
 [ext_resource type="PackedScene" uid="uid://syxb2gp6tjds" path="res://Scene/player.tscn" id="1_0qonn"]
 [ext_resource type="Script" path="res://Scene/game.gd" id="1_pl635"]
 [ext_resource type="Texture2D" uid="uid://dkaa8fxy5g54b" path="res://Tiles 1.png" id="1_vjus4"]
 [ext_resource type="Texture2D" uid="uid://n6ib174wx6g4" path="res://Assets/sprites/Forest Background/Design 1.png" id="2_018ds"]
-[ext_resource type="PackedScene" uid="uid://b8pbu8k7bu6rh" path="res://Scene/main_menu.tscn" id="2_npj01"]
 [ext_resource type="Texture2D" uid="uid://bt4nq5l37b2mw" path="res://Assets/sprites/Godot/world_tileset.png" id="2_pa3nk"]
-[ext_resource type="PackedScene" uid="uid://dpkatp285cf5d" path="res://Scene/About Game.tscn" id="3_q47qd"]
 [ext_resource type="Texture2D" uid="uid://784pbuxfk0mn" path="res://Assets/sprites/Forest Background/3.jpg" id="4_4r4m7"]
 [ext_resource type="Texture2D" uid="uid://cuuik15mpmulo" path="res://Assets/sprites/Tiles 2.png" id="4_48vm8"]
 [ext_resource type="Texture2D" uid="uid://m7oc6466ks4f" path="res://Assets/sprites/Forest Background/Background.png" id="4_acxdx"]
@@ -57201,6 +57199,7 @@ texture = ExtResource("7_aey4n")
 texture = ExtResource("8_yng4g")
 margins = Vector2i(1, 8)
 0:0/0 = 0
+0:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_aupw2"]
 texture = ExtResource("9_0ddvv")
@@ -70883,10 +70882,6 @@ distance = -576.0
 
 [node name="Game" type="Node2D"]
 script = ExtResource("1_pl635")
-
-[node name="Main Menu" parent="." instance=ExtResource("2_npj01")]
-
-[node name="Control" parent="Main Menu" instance=ExtResource("3_q47qd")]
 
 [node name="TileMap" type="TileMap" parent="."]
 position = Vector2(1, 0)

@@ -1,7 +1,8 @@
-[gd_scene load_steps=5 format=3 uid="uid://b8pbu8k7bu6rh"]
+[gd_scene load_steps=6 format=3 uid="uid://b8pbu8k7bu6rh"]
 
 [ext_resource type="Texture2D" uid="uid://dynvpb7j1ouyl" path="res://Assets/sprites/Fantasy Background/space.jpg" id="1_6hhyt"]
 [ext_resource type="Script" path="res://Scene/main_menu.gd" id="1_drwds"]
+[ext_resource type="PackedScene" uid="uid://ysuw7fppxssa" path="res://Scene/label.tscn" id="3_fovdg"]
 
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_jk6x7"]
 texture = ExtResource("1_6hhyt")
@@ -78,6 +79,9 @@ offset_bottom = -56.0
 grow_horizontal = 2
 theme_override_colors/font_color = Color(0.913725, 0.447059, 0, 1)
 text = "Anti T Rex Runner game."
+
+[node name="Point Scoreboard" parent="." instance=ExtResource("3_fovdg")]
+layout_mode = 0
 
 [connection signal="pressed" from="VBoxContainer/start" to="." method="_on_start_pressed"]
 [connection signal="pressed" from="VBoxContainer/quit" to="." method="_on_quit_pressed"]

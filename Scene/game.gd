@@ -4,7 +4,6 @@ var target_time_scale: float = 0.05
 var speed_decrement: float = 0.01
 var is_slowing_down: bool = false
 
-
 func _ready() -> void:
 	Engine.time_scale = 1.0
 
