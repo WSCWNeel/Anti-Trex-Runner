@@ -1,0 +1,8 @@
+res://Scene/About Game.tscn
+res://label.gd
+res://Scene/label.tscn
+res://Scene/main_menu.tscn
+res://Scene/game.gd
+res://Scene/game.tscn
+res://Scene/pause_game.tscn
+res://Scene/player.tscn
