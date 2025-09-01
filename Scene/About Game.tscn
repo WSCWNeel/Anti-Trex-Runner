@@ -1,0 +1,50 @@
+[gd_scene load_steps=3 format=3 uid="uid://dpkatp285cf5d"]
+
+[ext_resource type="Texture2D" uid="uid://dxi2osogfcggm" path="res://Assets/sprites/Fantasy Background/FullMoon.png" id="1_q3xkp"]
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_fgi76"]
+texture = ExtResource("1_q3xkp")
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -266.0
+offset_top = -135.5
+offset_right = 266.0
+offset_bottom = 135.5
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = SubResource("StyleBoxTexture_fgi76")
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -266.0
+offset_top = -137.5
+offset_right = 266.0
+offset_bottom = 137.5
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(0.295702, 0.400048, 0.879512, 1)
+text = "The Anti Trex Runner Game
+About and Rules of the game.
+Rules are basically like the normal t-Rex game.
+You need to survive all the levels in order to win.
+Jump to avoid obstacles.
+You will die and respwan once you hit the obstacle.
+You will be going level by level continuously. 
+"
